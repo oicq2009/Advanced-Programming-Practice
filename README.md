@@ -5,6 +5,3 @@ This is a blog about Gym-CarRacing, a project of the University of Toronto's Aut
 Introduction to the background knowledge of autonomous driving.
 Then the project may need to explain the knowledge points, the need to use image processing algorithms and basic lane detection algorithms, the explanation here is not too fine, the reader if not familiar with the search can be in a separate, C site also has a lot of introduction to these algorithms blog.
 The project requires an environment installation tutorial (this part is my temporary addition in the blog review phase), because the project requires Conda and gym environment and a bunch of essential packages (one less can not run). I read that a lot of friends on the Internet stepped in a lot of holes in the environment installation when doing the project. So in order to facilitate the students who need to do the project, and those who are interested in the project, I have prepared a tutorial on environment installation here.
-
-
-Translated with www.DeepL.com/Translator (free version)
