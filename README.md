@@ -1,7 +1,16 @@
-# Advanced-Programming-Practice
-Advanced Programming Practice
-This is a blog about Gym-CarRacing, a project of the University of Toronto's Autonomous Driving Program. GYM-Box2D CarRacing is a simulation environment for developing and comparing reinforcement learning algorithms on the OpenAI Gym platform. It is a version of the popular Box2D physics engine, modified to support simulating the physics of driving a car on a race track. Since there is a lot of content so it is updated in several times, this one is about the introduction of pre-knowledge, and the preparation of the project environment. Details are as follows.
+【計算機高級軟體實踐課程】
+------------------------------------
+第一週：蒙特卡洛仿真
+第二週：德勞內三角剖分 / 狄利克雷鑲嵌
+第三週：斐波那契 / 黃金分割
+第四周：自動駕駛 - 車線感知
+第五周：外接圓 / 向量叉積與凸包
+第六週：自動駕駛 - 道路路徑規劃
+第七週：圖 - DPS,BFS
+第八週：雙指針 / 滑動窗體
+第九週：動態規劃
+第十週：線段樹
+第十一週：自動駕駛 - 車輛控制
+第十二週：雜湊表
+------------------------------------
 
-Introduction to the background knowledge of autonomous driving.
-Then the project may need to explain the knowledge points, the need to use image processing algorithms and basic lane detection algorithms, the explanation here is not too fine, the reader if not familiar with the search can be in a separate, C site also has a lot of introduction to these algorithms blog.
-The project requires an environment installation tutorial (this part is my temporary addition in the blog review phase), because the project requires Conda and gym environment and a bunch of essential packages (one less can not run). I read that a lot of friends on the Internet stepped in a lot of holes in the environment installation when doing the project. So in order to facilitate the students who need to do the project, and those who are interested in the project, I have prepared a tutorial on environment installation here.
